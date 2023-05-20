@@ -1,0 +1,56 @@
+.side-link-p {
+    border-top : 1px solid #1e9d9e !important;
+    border-bottom : 1px solid #1e9d9e !important;
+    border-radius : 4px !important;
+    color : #eb5e1a !important;
+    font-size :18px !important;
+    font-weight : bold !important;
+    
+    opacity :0.95 !important;
+}
+.side-link-p:hover {
+    background-color: #eb5e1a !important;
+    color : white !important;
+    font-size :18px !important;
+    font-weight : bold !important;
+    
+    opacity :0.95 !important;
+}
+
+.btn-add-large{
+    border: solid 2px #1e9d9e !important;
+    color: #eb5e1a !important;
+    font-weight: 700 !important;
+}
+.btn-add-large:hover{
+    border: solid 2px #eb5e1a !important;
+    background-color: #eb5e1a !important;
+    font-weight: 900 !important;
+    color: white !important;
+}
+.btn-logout-large{
+    border: solid 2px red !important;
+    color: white !important;
+    background-color: red !important;
+    font-weight: 700 !important;
+    opacity: 0.7;
+}
+.btn-logout-large:hover{
+    border: solid 2px red !important;
+    background-color: white !important;
+    font-weight: 900 !important;
+    color: red !important;
+}
+.text-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    color: black;
+    opacity: 0.7;
+}
+.text-fonction{
+    color: black;
+    opacity: 0.6;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 4px;
+}

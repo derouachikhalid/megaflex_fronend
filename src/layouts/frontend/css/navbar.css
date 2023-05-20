@@ -1,0 +1,21 @@
+.disconn {
+    width: 100px;
+    color: #eb5e1a !important;
+    border-right: solid 2px #1e9d9e !important;
+    border-left: solid 2px #1e9d9e !important;
+    border-bottom: solid 2px #1e9d9e !important;
+    border-radius: 3px;
+    margin: 2px;
+
+}
+.disconn:hover {
+    width: 100px;
+    color: #1e9d9e !important;
+    border-right: solid 2px #eb5e1a !important;
+    border-left: solid 2px #eb5e1a !important;
+    border-bottom: solid 2px #eb5e1a !important;
+    border-radius: 3px;
+    height: 45px;
+    margin: 2px;
+
+}
